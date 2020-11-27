@@ -24,3 +24,4 @@ Here are prototypes and sketches of my original vision:
 
 ![Prototype sketches](p-images/protosketches.jpg)
 
+<!--- <img src="p-images/protosketches.jpg" width="400"> --->
