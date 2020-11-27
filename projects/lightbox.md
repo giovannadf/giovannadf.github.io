@@ -1,6 +1,6 @@
 # Lightbox for "There's a fire in your backyard" by Tess Cramer
 
-## [Back to Projects](https://gdiazfab.com/projects) or [Gallery](https://gdiazfab.com/gallery)
+## [Back to Home](https://gdiazfab.com/) or [Gallery](https://gdiazfab.com/gallery)
 
 ### Project 
 
