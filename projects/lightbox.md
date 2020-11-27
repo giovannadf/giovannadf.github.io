@@ -22,5 +22,5 @@ The idea started when I purchased the original artwork by Tess. When she told me
 
 Here are prototypes and sketches of my original vision: 
 
-![Prototype sketches](p-images/PrototypeSketches.jpg)
+![Prototype sketches](p-images/protosketches.jpg)
 
