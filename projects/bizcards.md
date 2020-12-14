@@ -34,7 +34,7 @@ Mounted linoleum blocks (various sizes), printing ink, brayer, x-acto knife, car
 
 I used Easel and Inkscape to get the design just right. We started in Easel and brought in the design elements. Using the Image Trace tool we imported her new logo and tried out different font styles. 
 
-<img src="p-images/cm_easel.jpg" width="400">
+<img src="p-images/cm_easel.jpg" width="600">
 
 Once we decided on the font and overall layout, the entire image had to be inverted. Easel has great tools to facilitate the process. You can check out the project here. 
 
@@ -54,11 +54,11 @@ One of my favorite parts of working with desktop digital fabrication tools is th
 
 I found that cutting .04" depth was enough to transfer ink to the paper. I used a 2-stage carve and here are the cut settings I used on the final carve: 
 
-<img src="p-images/cm_cutsettings.jpeg" width="400">
+<img src="p-images/cm_cutsettings.jpg" width="400">
 
 Once I found the combination of font, size, spacing and cut settings that looked the best, I was ready to begin the actual printing process. 
 
-<img src="p-images/cm_stampcut.jpeg" width="400">
+<img src="p-images/cm_stampcut.jpg" width="400">
 
 Although I am familiar with the block printing process, I do not have extensive experience with the technique. I won't lie, it is a very labor intensive task but so very rewarding. I started by cutting out my sheet of cardstock into 2" x 3.5" pieces. I would recommend a paper cutter but I used a x-acto knife and straight edge to cut out a bit over 50 pieces. I started with one side, ink, press, ink, press and lots of drying time. It was so rewarding to see how each card had unique characteristics. 
 
