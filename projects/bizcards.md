@@ -82,6 +82,7 @@ One of my favorite parts of working with desktop digital fabrication tools is th
 
 I found that cutting .04" depth was enough to transfer ink to the paper. I used a 2-stage carve and here are the cut settings I used on the final carve: 
 
+
 <img src="images/cm_cutsettings.jpg" width="400">
 
 Once I found the combination of font, size, spacing and cut settings that looked the best, I was ready to begin the actual printing process. 
