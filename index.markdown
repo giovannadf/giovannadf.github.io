@@ -11,8 +11,7 @@ layout: default
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
           <h2> Digital Fabrication and Sculpture</h2>
-
-  <p >I work with wood, clay, plastics, video and lights as my art practice continues to evolve. I enjoy exploring repetition, abstraction and themes from social theory. One of my ultimate goals is to share my knowledge and provide resources to other Makers. While I continue to grow my portfolio, I will be documenting my process on this site.</p>
+ <p >I work with digital fabrication technology, wood, clay, plastics, video and lights as my art practice continues to evolve. I enjoy exploring repetition, abstraction and themes from social theory. I hope to share my knowledge and provide resources to other Makers.</p>
   <p> Visit my <a href="/gallery">Gallery</a> for finished projects. </p>
 
   <!-- </div> -->
@@ -23,7 +22,7 @@ layout: default
 <section class="projects">
     <div class="content-wrap divider">
       <h2>Featured Projects</h2>
-      <p>View selected projects below. For work-in-progress check out <b><a href="/projects">Projects.</a></b></p>
+      <p>For work-in-progress check out <b><a href="/projects">Projects.</a></b></p>
 
 <!-- Copy the whole <section> block to add more projects.-->
   <section class="project-item">
@@ -64,16 +63,21 @@ layout: default
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
-      <p>I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology.</p>
-      <p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
-      Through this project I have gained insight on programming, engineering, and prototyping. It has also given me an opportunity for collaboration with the online Maker community</p>
+      <p>I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, and digital design consultation.</p>
+      <!--<p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
+      Through this project I have gained insight on programming, engineering, and prototyping. It has also given me an opportunity for collaboration with the online Maker community</p>-->
 
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 
-  <li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
+  <!-- Add font awesome icons -->
+<li><a href="mailto:gdiazfabiani@gmail.com" class="fa fa-envelope"></a></li>
+<li><a href="https://github.com/giovannadf" class="fa fa-github"></a> </li> 
+<li><a href="https://instagram.com/gdiazfab" class="fa fa-instagram"></a></li>
+<li><a href="https://www.linkedin.com/in/gdfabiani/" class="fa fa-linkedin"></a></li> 
+  <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
-  <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>
+  <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
   </ul>
 </div>
   </footer>

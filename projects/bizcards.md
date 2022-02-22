@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
+{::options parse_block_html="true" /}
 <!-- MD is getting ignored, not sure how to fix it. Do I need a different class or div? or remove it all together? 
 
 Correction: Default layout is using the global styles in the CSS -->
 
 <main>
 <!-- ***********************  ABOUT / PROFILE  *********************** -->
-<header>
-	<div class="content-wrap">
+<header>	
+<div class="content-wrap">
   <h1> 
     <a href="/index"> Giovanna Diaz Fabiani </a> 
   </h1>
@@ -25,8 +26,8 @@ Correction: Default layout is using the global styles in the CSS -->
 
 <!---START PROJECTS--->
 
-<!-- <section class="projects">
- <div class="content-wrap divider"> -->
+<section class="projects">
+ <div class="content-wrap divider">
 
 # Business Card Stamps
 
@@ -95,4 +96,5 @@ Although I am familiar with the block printing process, I do not have extensive 
 
 This project took about two weeks to complete. It can easily be done in a weekend if you source all of your materials from the start. Carving the blocks can be time consuming and that is why I would recommend doing sections at time when you are trying to get the right depth. Carving and stamping time combined was about 4-5 hours. This is not including the designing and various trials but now I have a stamp and design than I can reuse over and over! 
 
-<a href="#top"> Back to top </a>
+<a class="btn" href="#top">Back to top</a> 
+<!--<a href="#top"> Back to top </a>-->

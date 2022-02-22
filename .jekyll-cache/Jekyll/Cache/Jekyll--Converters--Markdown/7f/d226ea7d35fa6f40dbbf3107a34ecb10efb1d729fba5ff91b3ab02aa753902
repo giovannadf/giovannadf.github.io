@@ -1,0 +1,121 @@
+I"�
+<main>
+  <!-- ***********************  ABOUT / PROFILE  *********************** -->
+  <header>
+    <div class="content-wrap">
+      <h1> 
+    <a href="/index"> Giovanna Diaz Fabiani </a> 
+  </h1>
+      <h2> Projects &amp; Work in Progress </h2>
+      <ul class="contact-list"> 
+  <li> <a href="../index">Home</a> </li>
+  <li> <a href="../gallery">Gallery</a> </li>
+  <li> <a href="/projects">Projects</a></li>
+  </ul>
+    </div>
+  </header>
+
+</main>
+
+<!---START PROJECTS--->
+
+<section class="projects">
+  <div class="content-wrap divider">
+    <div class="projects-content">
+
+      <h1 id="aurora-il-map-screenprints">Aurora, IL map screenprints</h1>
+      <p><br /></p>
+
+      <h2 id="project-description">Project Description</h2>
+
+      <p>I was experimenting with different printing techniques. I tried to use linoleum and fabric inks but it was not working very well. I do not have access to a dark room so I purchased a screen print and layed a vinyl cut over it as a mask rather than using the emulsion method. This project outlines my process. </p>
+      <p><img src="images/finalprint.JPG" width="400" /></p>
+
+      <h2 id="goal">Goal</h2>
+
+      <p>Print map of Aurora, Illinois on a t-shirt and canvas bag.</p>
+
+      <h2 id="materials--tools">Materials &amp; Tools</h2>
+
+      <p>Fabric Inks: <a href="https://www.dickblick.com/products/jacquard-textile-colors/">Jacquard Fabric Inks</a> and <a href="https://www.dickblick.com/products/speedball-fabric-screen-printing-inks/">Speedball Screen Printing Ink</a><br /></p>
+
+      <p><a href="https://shop.bellacanvas.com/products/mens-the-triblend-crew-tee">Gray Bella Canvas t-shirts</a><br /></p>
+
+      <p>Brayer, Screen, Vinyl I had on hand. 
+<br />
+<strong>Software:</strong> Easel and <a href="https://snazzymaps.com">https://snazzymaps.com</a>
+<br />
+<strong>Tools:</strong> Cameo Vinyl Cutter, tweezers, clamps and a iron to heatset ink</p>
+
+      <h2 id="design-files">Design Files</h2>
+
+      <p><strong>I recommend using design files as a resource rather than a template.</strong>
+<br />
+Easel Project Files:<br />
+<a href="https://easel.inventables.com/projects/Q2H0ILM0XlY1t49HNzjV1w">Aurora Stamp</a><br />
+<a href="https://easel.inventables.com/projects/dDR8MWONvUG3jF-LVxFfDw">Large Press</a></p>
+
+      <h2 id="process">Process</h2>
+
+      <p>Started with importing an SVG of the Aurora map into Easel. Snazzy maps makes it very user friendly to create black/white maps. After inverting the image (Edit&gt; Flip Horizontally), I experimented with various cut settings and bits before deciding on doing a two-stage carve with 1/16” and 1/32” downcut bits.</p>
+
+      <p><img src="images/auroraEaselshot.png" width="800" /></p>
+
+      <p>I carved on a block of linoleum, I wanted to go down through the lino so my cut as very deep. I don’t think it needs to be cut to the same depth but you may want to experiment.</p>
+
+      <hr />
+      <p>Mixing the ink to match the color on the original canvas bag was quite a challenge. I purchased a variety of greens and primary colors to get it just right.</p>
+
+      <p><img src="images/press1.JPG" width="800px" /></p>
+
+      <p>Having no fabric printing experience, I thought it would work very similarly to paper but I was definitely mistaken. The fabric ink dried very fast on the lino block. I reached out to <a href="https://www.instagram.com/jennaleighrichards/">@jennaleighrichards</a> for suggestions in printing with fabric. She recommended adding more even pressure and even a backing with batting to allow for pressure. We decided to create a large MDF press. It would consist of a top panel of MDF with holes at various positions for screws to go through and the bottom panel would have threaded inserts for the screws to secure.</p>
+
+      <p><img src="images/pressrender.png" width="800px" /> 
+<img src="images/press2.JPG" /></p>
+
+      <p>Tried the press a few different ways but the ink was still drying too fast on the lino block and printing inconsistently. I wanted solid lines.</p>
+
+      <p><img src="images/linoblockprint.JPG" width="800" /></p>
+
+      <hr />
+      <p>Fast forward to a few weeks later. I purchased a Speedball ink which had a thinner consistency. The color was deeper but close enough to the emerald green I was looking for. This ink was still not really working on the lino block so I decided to try a different method: screenprinting.</p>
+
+      <p>I purchased a screen from Blick and vinyl to use with the Cameo vinyl cutter. I exported the SVG file from Easel (Project &gt; Download .zip &gt; unzip and save the SVG only) and brought it into Cameo software. The SVG file must remai “inverted” to ensure it prints correctly when the screen is flipped and inked.</p>
+
+      <p><img src="images/vinyldetail.JPG" width="800" /></p>
+
+      <p>Carefully peeled away the vinyl to expose the screen on the parts I wanted inked. The last step is to press on transfer tape, lift the vinyl from its backing and adhere to the screen. I also taped around the edges to create a frame around the map. When removing the transfer tape, some of the vinyl wanted to lift away from the screen. I had to remove this very slowly (con paciencia).</p>
+
+      <table>
+        <tbody>
+          <tr>
+            <td><img src="images/testprint.JPG" /></td>
+            <td><img src="images/testprint2.JPG" /></td>
+            <td><img src="images/testprintdetail.JPG" /></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Top lighting</th>
+            <th>Bottom lighting</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><img src="images/led_testfit1.JPG" alt="frame top lit" /></td>
+            <td><img src="images/led_testfit2.JPG" alt="frame bottom lit" /></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p>Hope you enjoyed this project! <br /></p>
+
+      <p><a class="btn" href="#top">Back to top</a> 
+<!--<a href="#top"> Back to top </a>--></p>
+    </div>
+  </div>
+</section>
+:ET

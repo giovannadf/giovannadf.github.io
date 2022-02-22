@@ -23,12 +23,30 @@ layout: default
   <h2>Projects</h2>
   <p>This is where I will attempt to document and share my work in progress. </p>
 
+<section class="project-item">
+  <div class="content-wrap">
+  <img src="images/finalprint.JPG" alt="T-shirt and bag printed">  
+  <h3>Aurora, IL map screenprints (2020)</h3>
+  <p>Experimenting with printing techniques: carving lino on my X-Carve and screenprinting with vinyl cutter.</p>
+  <a class="btn" href="/projects/vinylscreenprint">View Project</a>
+</div>
+</section>
+
+<!--<section class="project-item">
+  <div class="content-wrap">
+  <img src="images/Leaningshelf">  
+  <h3>CNC Cut Leaning Shelf</h3>
+  <p>Created a leaning shelf using Easel and the X-Carve Pro</p>
+  <a class="btn" href="/projects/leaningshelf">View Project</a>
+</div>
+</section> -->
+
 <!-- Copy the whole <section> block to add more projects. --->
 <section class="project-item">
 <div class="content-wrap">
   <a href="/lightbox.md">
   <img src="images/final.jpg" alt="Lightbox for Tess"> </a>
-  <h3>Lightbox for Tess</h3>
+  <h3>Lightbox for Tess (2020)</h3>
   <p> Lighting up a painting.</p>
   <!--<p>My attempt of modifying an Anycubic Linear Kossel kit to extrude clay.<br>  
   <br>  
@@ -41,10 +59,15 @@ layout: default
 <section class="project-item">
   <div class="content-wrap">
   <img src="images/cm_bizcards.jpg" alt="top view of business cards with stamp">
-  <h3>Business Cards Stamp</h3>
+  <h3>Business Cards Stamp (2020)</h3>
   <p>Creating a custom business card.</p>
   <a class="btn" href="/projects/bizcards">View Project</a>
 </div>
+</section>
+<section>
+  <h3>Other Sites</h3>
+    <a class="btn" href="https://www.thingiverse.com/gdiazfab/designs" target="_blank">Thingiverse</a>
+    <a class="btn" href="https://wikifactory.com/@gdiazfab" target="_blank">Wikifactory</a>
 </section>
 <!-- Uncomment and copy block for more projects 
 <section class="project-item">
@@ -68,10 +91,16 @@ layout: default
 
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 
-  <li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
+    <!-- Add font awesome icons -->
+<li><a href="mailto:gdiazfabiani@gmail.com" class="fa fa-envelope"></a></li>
+<li><a href="https://github.com/giovannadf" class="fa fa-github"></a> </li> 
+<li><a href="https://instagram.com/gdiazfab" class="fa fa-instagram"></a></li>
+<li><a href="https://www.linkedin.com/in/gdfabiani/" class="fa fa-linkedin"></a></li> 
+  <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
   <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>
+  <li> <a href="https://www.thingiverse.com/gdiazfab/designs" target="_blank">Thingiverse</a> </li>-->
   </ul>
 </div>
 	</footer>

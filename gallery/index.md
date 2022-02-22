@@ -137,10 +137,15 @@ End of Project block. -->
 
 <!-- Social media and contact links. Add or remove any networks. -->
 <ul class="contact-list"> 
-<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
-<li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
-<li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
-<li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>
+  <!-- Add font awesome icons -->
+<li><a href="mailto:gdiazfabiani@gmail.com" class="fa fa-envelope"></a></li>
+<li><a href="https://github.com/giovannadf" class="fa fa-github"></a> </li> 
+<li><a href="https://instagram.com/gdiazfab" class="fa fa-instagram"></a></li>
+<li><a href="https://www.linkedin.com/in/gdfabiani/" class="fa fa-linkedin"></a></li> 
+  <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
+  <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
+  <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
+  <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
 </ul>
 </div>
 </footer>

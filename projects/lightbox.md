@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{::options parse_block_html="true" /}
 <!-- MD is getting ignored, not sure how to fix it. Do I need a different class or div? or remove it all together? 
 
 Correction: Default layout is using the global styles in the CSS -->
@@ -8,7 +9,7 @@ Correction: Default layout is using the global styles in the CSS -->
 <main>
 <!-- ***********************  ABOUT / PROFILE  *********************** -->
 <header>
-	<div class="content-wrap">
+<div class="content-wrap">
   <h1> 
     <a href="/index"> Giovanna Diaz Fabiani </a> 
   </h1>
@@ -25,9 +26,10 @@ Correction: Default layout is using the global styles in the CSS -->
 
 <!---START PROJECTS--->
 
-<!-- <section class="projects">
- <div class="content-wrap divider"> -->
-
+<section class="projects">
+<div class="content-wrap divider">
+<div class="projects-content">
+<br>
 # Lightbox for "There's a fire in your backyard" by Tess Cramer 
 <br>
 <br>
@@ -108,4 +110,5 @@ I did not document the soldering portion but I needed to shorten the LED wires. 
 
 Hope you enjoyed this project! <br>
 
- <a href="#top"> Back to top </a>
+<a class="btn" href="#top">Back to top</a> 
+<!--<a href="#top"> Back to top </a>-->
