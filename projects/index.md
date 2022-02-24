@@ -26,7 +26,7 @@ layout: default
 <section class="project-item">
   <div class="content-wrap">
   <img src="images/finalprint.JPG" alt="T-shirt and bag printed">  
-  <h3>Aurora, IL map screenprints (2020)</h3>
+  <h3>Aurora, IL map screenprints (2021)</h3>
   <p>Experimenting with printing techniques: carving lino on my X-Carve and screenprinting with vinyl cutter.</p>
   <a class="btn" href="/projects/vinylscreenprint">View Project</a>
 </div>
@@ -86,8 +86,7 @@ layout: default
 <footer class="footer">
  <div class="content-wrap">
   <h2>Contact</h2>
-  <p>Thank you for stopping by!</p>
-  <p>¡Gracias por visitar!</p>
+<p>I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation. Email is the best way to reach me!</p>
 
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 

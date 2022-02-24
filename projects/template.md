@@ -27,7 +27,8 @@ layout: default
  <div class="content-wrap divider">
  <div class="projects-content">
 
-# Title
+## Title
+<P>Date</P>
 
 ## Project Description  
 

@@ -27,7 +27,7 @@ layout: default
  <div class="content-wrap divider">
   <div class="projects-content">
 
-# Aurora, IL map screenprints
+#Aurora, IL map screenprints
 <br>
 
 ## Project Description  
