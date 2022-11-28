@@ -229,7 +229,7 @@ layout: default
   </section> -->
     <!-- End of Project block. -->   
 
-  <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
+<!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
