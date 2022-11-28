@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@gdiazfab</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <link href="https://fonts.googleapis.com/css2?family=Hind:wght@500;700&family=Raleway:wght@400;600&family=Roboto&display=swap" rel="stylesheet">
-    <!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  </head>
-  <body>
-   <main>
+I"­&<main>
       <!-- ***********************  ABOUT / PROFILE  *********************** -->
       <header>
         <div class="content-wrap">
@@ -37,8 +24,10 @@
   <div style="padding:6px;">
   <p>Â¡Gracias por visitar!</p>
   <p>[Thank you for stopping by!]</p> 
+</div>
+</div>
+</section>
 
-  
 <div class="responsive">
   <div class="gallery">
     <a href="../projects/images/cm_sample2.jpg">
@@ -185,9 +174,9 @@
 </div>
 
 <div class="clearfix"></div>
-</div>
-</div>
-</section>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
 
 
 
@@ -266,6 +255,4 @@
   <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
 
 </main>
-
-  </body>
-</html>
+:ET
