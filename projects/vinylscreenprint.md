@@ -12,9 +12,11 @@ layout: default
   </h1>
   <h2> Projects & Work in Progress </h2>
   <ul class="contact-list"> 
-  <li> <a href="../index">Home</a> </li>
+  <li> <a href="/" > Galería </a></li> <br>
+  <li> <a href="/projects">Guías [Documentation]</a></li> 
+<!--  <li> <a href="../index">Home</a> </li>
   <li> <a href="../gallery">Gallery</a> </li>
-  <li> <a href="/projects">Projects</a></li>
+  <li> <a href="/projects">Projects</a></li> -->
   </ul>
 </div>
 </header>
@@ -27,7 +29,7 @@ layout: default
  <div class="content-wrap divider">
   <div class="projects-content">
 
-#Aurora, IL map screenprints
+# Aurora, IL map screenprints
 <br>
 
 ## Project Description  

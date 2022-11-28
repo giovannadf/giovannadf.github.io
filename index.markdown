@@ -11,20 +11,192 @@ layout: default
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
           <h2> Digital Fabrication and Sculpture</h2>
- <p >I work with digital fabrication technology, wood, clay, plastics, video and lights as my art practice continues to evolve. I enjoy exploring repetition, abstraction and themes from social theory. I hope to share my knowledge and provide resources to other Makers.</p>
-  <p> Visit my <a href="/gallery">Gallery</a> for finished projects. </p>
+          <br>
+<p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
+<!--<p >I work with digital fabrication technology, wood, clay, plastics, video and lights as my art practice continues to evolve.</p> -->
+ <p> For work-in-progress, check out <a href="/projects">Guías [Documentation]</a> </p> 
 
   <!-- </div> -->
 </div>
   </header>
 
 <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
-<section class="projects">
-    <div class="content-wrap divider">
-      <h2>Featured Projects</h2>
-      <p>For work-in-progress check out <b><a href="/projects">Projects.</a></b></p>
 
-<!-- Copy the whole <section> block to add more projects.-->
+<section class="projects">
+  <div class="content-wrap divider">
+  
+  <div style="padding:6px;">
+  <p>¡Gracias por visitar!</p>
+  <p>[Thank you for stopping by!]</p> 
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/cm_sample2.jpg">
+      <img src="../projects/images/cm_sample2.jpg" alt="Business Card - CNC - 2021" >
+    </a>
+    <div class="desc">Business Card - X-Carve 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/final.jpg">
+      <img src="../projects/images/final.jpg" alt="Lightbox Final Shot" width="600" height="400">
+    </a>
+    <div class="desc">Lightbox - X-Carve 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/laddershelf.png">
+      <img src="../projects/images/laddershelf.png" alt="Leaning Shelf Technical Drawing" width="600" height="400">
+    </a>
+    <div class="desc">Leaning Shelf - X-Carve Pro 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/finalprint.jpg">
+      <img src="../projects/images/finalprint.jpg" alt="Screenprint Final Top View" width="600" height="400">
+    </a>
+    <div class="desc">Screen print - Vinyl Cutter 2021</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Panopticon_Full_2017.jpg">
+      <img src="images/Panopticon_Full_2017.jpg" alt="Panopticon Ceramic Sculpture" width="600" height="400">
+    </a>
+    <div class="desc">Panopticon - Stoneware 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Panopticon_Glow_2017.jpg">
+      <img src="images/Panopticon_Glow_2017.jpg" alt="Panopticon Ceramic Sculpture with red glow" width="600" height="400">
+    </a>
+    <div class="desc">Panopticon - Stoneware 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Panopticon_Detail_2017.jpg">
+      <img src="images/Panopticon_Detail_2017.jpg" alt="Panopticon Ceramic Sculpture red glow detail" width="600" height="400">
+    </a>
+    <div class="desc">Panopticon - Stoneware 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="=Randbetween(1,3)_Wood_2017.jpg">
+      <img src="images/=Randbetween(1,3)_Wood_2017.jpg" alt="Wood Sculpture" width="600" height="400">
+    </a>
+    <div class="desc">=Randbetween(1,3) - Wood 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="=Randbetween(1,3)_TableProfile_2017.jpg">
+      <img src="images/=Randbetween(1,3)_TableProfile_2017.jpg" alt="Wood Sculpture Table" width="600" height="400">
+    </a>
+    <div class="desc">=Randbetween(1,3) - Wood 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="DSC_0056.jpg">
+      <img src="images/DSC_0056.jpg" alt="3D printed sculpture" width="600" height="400">
+    </a>
+    <div class="desc">Negative City - PLA 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="DSC_0061.jpg">
+      <img src="images/DSC_0061.jpg" alt="3D printed sculpture" width="600" height="400">
+    </a>
+    <div class="desc">Negative City Detail- PLA 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="DSC_0119.jpg">
+      <img src="images/DSC_0119.jpg" alt="3D printed sculpture" width="600" height="400">
+    </a>
+    <div class="desc">Organic City - PLA 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="DSC_0082.jpg">
+      <img src="images/DSC_0082.jpg" alt="ceramic sculpture" width="600" height="400">
+    </a>
+    <div class="desc">Organic City - Porcelain and PLA 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="DSC_0099.jpg">
+      <img src="images/DSC_0099.jpg" alt="ceramic sculpture" width="600" height="400">
+    </a>
+    <div class="desc">Organic City Detail - Porcelain and PLA 2017</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="IMG_1754.jpeg">
+      <img src="images/IMG_1754.jpeg" width="800" height="400">
+    </a>
+    <div class="desc">A-Town Borealis: 365 Sunrises and Sunsets - Watercolor and Ink 2016</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="IMG_1755.jpeg">
+      <img src="images/IMG_1755.jpeg" width="800" height="400">
+    </a>
+    <div class="desc">Repetition Minus Time - Ink 2016</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+</div>
+</div>
+</section>
+
+
+
+<!-- <ul class="comingsoon"> 
+<li> <a href="https://ubu.com/papers/lewitt_sentences.html" target="_blank">Sol LeWitt - Sentences on Conceptual Art (1968) </a> </li>
+<li> <a href="https://www.moma.org/artists/4929#works" target="_blank">Bridget Riley MoMA</a> </li>
+<li> <a href="https://littlesis.org" target="_blank"> LitleSis - Profiling the powers that be</a></li>
+<li> <a href="http://english.bouletcorp.com/2015/08/26/brassens-in-space/" target="_blank">Brassens in Space</a> </li>
+<li> <a href="https://junkcharts.typepad.com" target="_blank">Junk Charts</a> </li>
+<li> <a href="https://blog.prusaprinters.org/calculator/" target="_blank">RepRap Calculator</a> </li>
+</ul> -->
+
+
+
+<!-- <section class="projects"> 
+    <div class="content-wrap divider">
+      <h2>Galería [Gallery] h2> -->
+   <!--   <p>For work-in-progress check out <b><a href="/projects">Projects.</a></b></p> -->
+
+<!-- Copy the whole <section> block to add more projects.
   <section class="project-item">
     <div class="content-wrap">
       <img src="images/clayprinterlazlo.png" alt="Clay 3D Printer named Lazlo">
@@ -36,7 +208,7 @@ layout: default
       <a class="btn" href="https://wikifactory.com/@gdiazfab/anycubickossel-to-ceramic" target="_blank">View Project</a>
     </div>
 
-  </section>
+  </section> --> 
     <!-- End of Project block. -->
 <!--  <section class="project-item">
       <div class="content-wrap">
@@ -45,7 +217,7 @@ layout: default
       <p>Project details coming soon.</p>
       <a class="btn" href="#" target="_blank">View Project</a>
     </div>
-  </section> -->
+  </section> 
 
   <section class="project-item">
       <div class="content-wrap">
@@ -54,17 +226,17 @@ layout: default
       <p>CNC Milling Linoleum to creat a custom business card.</p>
       <a class="btn" href="/projects/bizcards">View Project</a>
     </div>
-  </section>
-    <!-- End of Project block. -->
-  </div>
-</section>      
+  </section> -->
+    <!-- End of Project block. -->   
 
   <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
-      <p>I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
-      <!--<p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
+      <p> Para contratar trabajo envie correo: gdiazfabiani@gmail.com</p>
+      <p>[If you're interested in working together, please email me.]</p>
+     <!-- <p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
+     <p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
       Through this project I have gained insight on programming, engineering, and prototyping. It has also given me an opportunity for collaboration with the online Maker community</p>-->
 
 <!-- Social media and contact links. Add or remove any networks. -->
@@ -74,6 +246,9 @@ layout: default
 <li><a href="https://github.com/giovannadf" target="_blank" class="fa fa-github"></a> </li> 
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 
+</ul>
+</div>
+<p>Copyright Giovanna Diaz Fabiani 2022</p></footer>
   <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>

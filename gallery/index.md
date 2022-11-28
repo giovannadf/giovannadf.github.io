@@ -3,7 +3,7 @@ layout: default
 ---    
 
 <main>
-  <!-- ***********************  ABOUT / PROFILE  *********************** -->
+  <!-- ***********************  ABOUT / PROFILE  *********************** 
     <header>
      <div class="content-wrap">
   <h1> 
@@ -15,130 +15,11 @@ layout: default
   <li> <a href="/projects">Projects</a> </li>
 </ul>
 
-<!-- </div> -->
+ </div> 
 </div>
-  </header>
+  </header> -->
 
 <!-- ********************  GALLERY ********************* -->
-
-<section class="projects">
-  <div class="content-wrap divider">
-  <h2>2020</h2>
-  <div style="padding:6px;">
-  <p>¡Gracias por visitar!</p>
-  <p>Thank you for stopping by!</p> 
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="Panopticon_Full_2017.jpg">
-      <img src="Panopticon_Full_2017.jpg" alt="Panopticon Ceramic Sculpture">
-    </a>
-    <div class="desc">Panopticon - Stoneware - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="Panopticon_Glow_2017.jpg">
-      <img src="Panopticon_Glow_2017.jpg" alt="Panopticon Ceramic Sculpture with red glow" width="600" height="400">
-    </a>
-    <div class="desc">Panopticon - Stoneware - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="Panopticon_Detail_2017.jpg">
-      <img src="Panopticon_Detail_2017.jpg" alt="Panopticon Ceramic Sculpture red glow detail" width="600" height="400">
-    </a>
-    <div class="desc">Panopticon - Stoneware - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="=Randbetween(1,3)_Wood_2017.jpg">
-      <img src="=Randbetween(1,3)_Wood_2017.jpg" alt="Wood Sculpture" width="600" height="400">
-    </a>
-    <div class="desc">=Randbetween(1,3) - Wood - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="=Randbetween(1,3)_TableProfile_2017.jpg">
-      <img src="=Randbetween(1,3)_TableProfile_2017.jpg" alt="Wood Sculpture Table" width="600" height="400">
-    </a>
-    <div class="desc">=Randbetween(1,3) - Wood - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="DSC_0056.jpg">
-      <img src="DSC_0056.jpg" alt="3D printed sculpture" width="600" height="400">
-    </a>
-    <div class="desc">Negative City - PLA - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="DSC_0061.jpg">
-      <img src="DSC_0061.jpg" alt="3D printed sculpture" width="600" height="400">
-    </a>
-    <div class="desc">Negative City Detail- PLA - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="DSC_0119.jpg">
-      <img src="DSC_0119.jpg" alt="3D printed sculpture" width="600" height="400">
-    </a>
-    <div class="desc">Organic City - PLA - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="DSC_0082.jpg">
-      <img src="DSC_0082.jpg" alt="ceramic sculpture" width="800" height="400">
-    </a>
-    <div class="desc">Organic City - Porcelain and PLA - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="DSC_0099.jpg">
-      <img src="DSC_0099.jpg" alt="ceramic sculpture">
-    </a>
-    <div class="desc">Organic City Detail - Porcelain and PLA - 2017</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="IMG_1754.jpeg">
-      <img src="IMG_1754.jpeg">
-    </a>
-    <div class="desc">A-Town Borealis: 365 Sunrises and Sunsets - Watercolor and Ink - 2016</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="IMG_1755.jpeg">
-      <img src="IMG_1755.jpeg">
-    </a>
-    <div class="desc">Repetition Minus Time - Ink - 2016</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
 
 
 <!-- <ul class="comingsoon"> 

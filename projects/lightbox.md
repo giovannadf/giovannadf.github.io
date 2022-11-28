@@ -15,9 +15,8 @@ Correction: Default layout is using the global styles in the CSS -->
   </h1>
   <h2> Projects & Work in Progress </h2>
   <ul class="contact-list"> 
-  <li> <a href="../index">Home</a> </li>
-  <li> <a href="../gallery">Gallery</a> </li>
-  <li> <a href="/projects">Projects</a></li>
+  <li> <a href="/" > Galería </a></li> <br>
+  <li> <a href="/projects">Guías [Documentation]</a></li>
   </ul>
 </div>
 </header>

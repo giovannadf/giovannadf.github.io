@@ -1,0 +1,47 @@
+I"r
+<main>
+  <!-- ***********************  ABOUT / PROFILE  *********************** -->
+  <header>
+    <div class="content-wrap">
+      <h1> 
+    <a href="/index"> Giovanna Diaz Fabiani </a> 
+  </h1>
+      <h2> Projects &amp; Work in Progress </h2>
+      <ul class="contact-list"> 
+  <li> <a href="/"> Galería </a></li> <br />
+  <li> <a href="/projects">Guías [Documentation]</a></li>
+ <!-- <li> <a href="../index">Home</a> </li>
+  <li> <a href="../gallery">Gallery</a> </li>
+  <li> <a href="/projects">Projects</a></li>-->
+  </ul>
+    </div>
+  </header>
+
+</main>
+
+<!---START PROJECTS--->
+
+<section class="projects">
+  <div class="content-wrap divider">
+    <div class="projects-content">
+
+      <h1 id="title">Title</h1>
+
+      <h2 id="project-description">Project Description</h2>
+
+      <h2 id="goal">Goal</h2>
+
+      <h2 id="materials--tools">Materials &amp; Tools</h2>
+
+      <h2 id="design-files">Design Files</h2>
+
+      <h2 id="process">Process</h2>
+
+      <p>Hope you enjoyed this project! <br /></p>
+
+      <p><a class="btn" href="#top">Back to top</a> 
+<!--<a href="#top"> Back to top </a>--></p>
+    </div>
+  </div>
+</section>
+:ET
