@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@gdiazfab</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <link href="https://fonts.googleapis.com/css2?family=Hind:wght@500;700&family=Raleway:wght@400;600&family=Roboto&display=swap" rel="stylesheet">
-    <!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  </head>
-  <body>
-   <main>
+I"Ç&<main>
       <!-- ***********************  ABOUT / PROFILE  *********************** -->
       <header>
         <div class="content-wrap">
@@ -19,9 +6,9 @@
           <h1> 
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
-          <h2> Digital Fabrication &#x2022; Design &#x2022; Training</h2>
+          <h2> Digital Fabrication and Sculpture</h2>
           <br />
-<p> I have experience fabricating for artists and entrepreneurs, realizing ideas through desktop digital fabrication tools. I am open for collaborations, prototyping, file setup, CNC training and design consultation.</p>
+<p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, prototyping, file setup and design consultation.</p>
 <!--<p >I work with digital fabrication technology, wood, clay, plastics, video and lights as my art practice continues to evolve.</p> -->
  <p> For work-in-progress, check out <a href="/projects">Gu√≠as [Documentation]</a> </p> 
 
@@ -252,12 +239,12 @@
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 
 </ul>
-<p>Giovanna Diaz Fabiani 2022</p>
+<p>Copyright Giovanna Diaz Fabiani 2022</p>&lt;/footer&gt;
   <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
   <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
-</p></div></footer></main>
 
-  </body>
-</html>
+&lt;/main&gt;
+</p></div></footer></main>
+:ET
