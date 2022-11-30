@@ -58,7 +58,7 @@ h1, h2 {
   max-width: 800px;
   width: 85%;
   margin: 0 auto;
-  padding: 25px 0;
+  padding: 15px 0;
 }
 h3 {
   margin-bottom: 0;
@@ -71,7 +71,7 @@ h3 {
 }
 .divider > section {
   border-bottom: 1px solid #343434;
-  padding: 25px 0;
+  padding: 20px 0;
 }
 .divider > section:last-of-type {
   border-bottom: none;
@@ -93,7 +93,7 @@ h3 {
 }
 
 /* Galleria
-------------------------------------*/
+------------------------------------
 header {
   background: #343434;
   color: #F7FFF7;
@@ -105,7 +105,7 @@ header a {
 
 h1 a:hover{
   color: #70AE6E;
-}
+} 
 
 
 
@@ -156,38 +156,45 @@ h1 a:hover{
 
 .projects-content img {
   max-width: 100%;
-  width: 85%;
+  width: 90%;
   object-fit: cover;
 }
 
 
 /* GALLERY
 ------------------------------------*/
-.comingsoon{
+
+/*.comingsoon{
   list-style-type: none;
   padding: 0;
 }
 .comingsoon a{
   padding: 10px;
   display: inline-block;
-  text-decoration: underline;
+  text-decoration: underline; */
  
+div.gallery p {
+  padding-top: 15px;
+  padding-bottom: 10px;
+
 }
 
 div.gallery {
   margin: 5px;
-  float: left;
+  float: none;
 }
 
 div.gallery:hover {
-  margin: 5px;
+  margin: none;
 }
 
 div.gallery img {
-  width: 100%;
-  height: 400px;
-  max-height: 200px;
+  max-width: 100%;
+  width: 90%;
+  height: 200px;
+  max-height: 300px;
   object-fit: contain;
+  margin: 5px;
 
 }
 

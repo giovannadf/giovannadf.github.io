@@ -10,9 +10,9 @@ layout: default
           <h1> 
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
-          <h2> Digital Fabrication and Sculpture</h2>
+          <h2> Digital Fabrication &#x2022; Design &#x2022; Training</h2>
           <br>
-<p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
+<p> I have experience fabricating for artists and entrepreneurs, realizing ideas through desktop digital fabrication tools. I am open for collaborations, prototyping, file setup, CNC training and design consultation.</p>
 <!--<p >I work with digital fabrication technology, wood, clay, plastics, video and lights as my art practice continues to evolve.</p> -->
  <p> For work-in-progress, check out <a href="/projects">Guías [Documentation]</a> </p> 
 
@@ -20,33 +20,11 @@ layout: default
 </div>
   </header>
 
-<!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
+<!-- ********************  GALERIA/PORTFOLIO  ********************* -->
 
 <section class="projects">
-  <div class="content-wrap divider">
-  
-  <div style="padding:6px;">
-  <p>¡Gracias por visitar!</p>
-  <p>[Thank you for stopping by!]</p> 
-
-  
-<div class="responsive">
-  <div class="gallery">
-    <a href="../projects/images/cm_sample2.jpg">
-      <img src="../projects/images/cm_sample2.jpg" alt="Business Card - CNC - 2021" >
-    </a>
-    <div class="desc">Business Card - X-Carve 2020</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a href="../projects/images/final.jpg">
-      <img src="../projects/images/final.jpg" alt="Lightbox Final Shot" width="600" height="400">
-    </a>
-    <div class="desc">Lightbox - X-Carve 2020</div>
-  </div>
-</div>
+<div class="gallery">
+  <p>¡Gracias por visitar! | Thank you for stopping by!</p> 
 
 <div class="responsive">
   <div class="gallery">
@@ -66,6 +44,23 @@ layout: default
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/cm_sample2.jpg">
+      <img src="../projects/images/cm_sample2.jpg" alt="Business Card - CNC - 2021" width="600" height="400">
+    </a>
+    <div class="desc">Business Card - X-Carve 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/final.jpg">
+      <img src="../projects/images/final.jpg" alt="Lightbox Final Shot" width="600" height="400">
+    </a>
+    <div class="desc">Lightbox - X-Carve 2020</div>
+  </div>
+</div>
 
 <div class="responsive">
   <div class="gallery">
@@ -177,7 +172,6 @@ layout: default
 
 <div class="clearfix"></div>
 </div>
-</div>
 </section>
 
 
@@ -235,8 +229,8 @@ layout: default
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
-      <p> Para contratar trabajo envie correo: gdiazfabiani@gmail.com</p>
-      <p>[If you're interested in working together, please email me.]</p>
+      <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfabiani@gmail.com">gdiazfabiani@gmail.com</a>
+      <p>If you're interested in working together, please email me.</p>
      <!-- <p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
      <p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
       Through this project I have gained insight on programming, engineering, and prototyping. It has also given me an opportunity for collaboration with the online Maker community</p>-->
@@ -249,11 +243,8 @@ layout: default
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 
 </ul>
-</div>
-<p>Copyright Giovanna Diaz Fabiani 2022</p></footer>
+<p>Giovanna Diaz Fabiani 2022</p>
   <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
   <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
-
-</main>

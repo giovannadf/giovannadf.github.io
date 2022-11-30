@@ -9,7 +9,7 @@ layout: default
   <h1> 
     <a href="/index"> Giovanna Diaz Fabiani </a> 
   </h1>
-     <h2> Digital Fabrication and Sculpture</h2> 
+     <h2> Digital Fabrication &#x2022; Design &#x2022; Training</h2> 
      <br>
  <!-- <h2> Guías [Documentation]</h2> -->
 <!--  <ul class="contact-list"> --> 
@@ -106,8 +106,8 @@ Copy the whole <section> block to add more projects. -->
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
-      <p> Para contratar trabajo envie correo: gdiazfabiani@gmail.com</p>
-      <p>[If you're interested in working together, please email me.]</p>
+      <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfabiani@gmail.com">gdiazfabiani@gmail.com</a>
+      <p>If you're interested in working together, please email me.</p>
      <!-- <p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
      <p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
       Through this project I have gained insight on programming, engineering, and prototyping. It has also given me an opportunity for collaboration with the online Maker community</p>-->
@@ -120,11 +120,8 @@ Copy the whole <section> block to add more projects. -->
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 
 </ul>
-</div>
-<p>Copyright Giovanna Diaz Fabiani 2022</p></footer>
+<p>Giovanna Diaz Fabiani 2022</p>
   <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
   <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
-
-</main>
