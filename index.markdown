@@ -24,7 +24,8 @@ layout: default
 
 <section class="projects">
 <div class="gallery">
-  <p>¡Gracias por visitar! | Thank you for stopping by!</p> 
+ <p>¡Gracias por visitar!</p><br>
+ <p>Thank you for stopping by!</p> 
 
 <div class="responsive">
   <div class="gallery">
