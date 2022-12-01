@@ -106,6 +106,7 @@ Copy the whole <section> block to add more projects. -->
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
+      <p>¡Gracias por visitar! [Thank you for stopping by!]</p>
       <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfabiani@gmail.com">gdiazfabiani@gmail.com</a>
       <p>If you're interested in working together, please email me.</p>
      <!-- <p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>

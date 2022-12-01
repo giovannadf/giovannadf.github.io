@@ -1,4 +1,4 @@
-I"w&<main>
+I"�*<main>
       <!-- ***********************  ABOUT / PROFILE  *********************** -->
       <header>
         <div class="content-wrap">
@@ -6,9 +6,9 @@
           <h1> 
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
-          <h2> Digital Fabrication and Sculpture</h2>
+          <h2> Digital Fabrication &#x2022; Design &#x2022; Training</h2>
           <br />
-<p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, prototyping, file setup and design consultation.</p>
+<p> I have experience fabricating for artists and entrepreneurs, realizing ideas through desktop digital fabrication tools. I am open for collaborations, prototyping, file setup, CNC training and design consultation.</p>
 <!--<p >I work with digital fabrication technology, wood, clay, plastics, video and lights as my art practice continues to evolve.</p> -->
  <p> For work-in-progress, check out <a href="/projects">Guías [Documentation]</a> </p> 
 
@@ -18,11 +18,9 @@
 
 <!-- ********************  GALERIA/PORTFOLIO  ********************* -->
 
-<!--<section class="projects">
-<div class="content-wrap divider"> -->
-  
-  <div style="padding:6px;">
-  <p>¡Gracias por visitar! | Thank you for stopping by!</p> 
+<section class="projects">
+<div class="gallery">
+ <p>Below you will find personal work, collaborations and commissions.</p> </div>
 
 <div class="responsive">
   <div class="gallery">
@@ -57,6 +55,42 @@
       <img src="../projects/images/final.jpg" alt="Lightbox Final Shot" width="600" height="400" />
     </a>
     <div class="desc">Lightbox - X-Carve 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/rabenoldvinyl.jpg">
+      <img src="images/rabenoldvinyl.jpg" width="600" height="400" />
+    </a>
+    <div class="desc">Vinyl Map - <a href="https://www.christinerabenold.com/">C. Rabenold, 2018 </a> </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/Lamp2019.jpeg">
+      <img src="images/Lamp2019.jpeg" width="600" height="400" />
+    </a>
+    <div class="desc">Lamp Exploration - Laser, Wood, Porcelain 2018</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/Shade2019.JPG">
+      <img src="images/Shade2019.JPG" alt="Laser Cut Lamp Shade" width="600" height="400" />
+    </a>
+    <div class="desc">Lamp Shade - Laser Cut 2018</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/APLClock.JPG">
+      <img src="images/APLClock.JPG" alt="Laser Cut Clock" width="600" height="400" />
+    </a>
+    <div class="desc">Cassette Clock - Laser Cut 2018</div>
   </div>
 </div>
 
@@ -169,8 +203,7 @@
 </div>
 
 <div class="clearfix"></div>
-</div>
-&lt;/section&gt;
+</section>
 
 
 
@@ -227,8 +260,9 @@
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
-      <p> Para contratar trabajo envie correo: gdiazfabiani@gmail.com</p>
-      <p>[If you're interested in working together, please email me.]</p>
+      <p>¡Gracias por visitar! [Thank you for stopping by!]</p>
+      <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfabiani@gmail.com">gdiazfabiani@gmail.com</a>
+      <p>If you're interested in working together, please email me.</p>
      <!-- <p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>
      <p>My most recent work is focused less on creating sculptural objects and rather on building my own machines which will be used to create sculptures. Recently, I put together a ceramic 3D printer and aim to test the possibility for repetition without the use of slip casting techniques. 
       Through this project I have gained insight on programming, engineering, and prototyping. It has also given me an opportunity for collaboration with the online Maker community</p>-->
@@ -241,12 +275,10 @@
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 
 </ul>
-</div>
-<p>Copyright Giovanna Diaz Fabiani 2022</p></footer>
+<p>Giovanna Diaz Fabiani 2022</p>
   <!--<li> <a href="mailto:gdiazfabiani@gmail.com">Email</a> </li>
   <li> <a href="https://github.com/giovannadf" target="_blank">GitHub</a> </li>
   <li> <a href="https://instagram.com/gdiazfab" target="_blank">Instagram</a> </li>
   <li> <a href="https://www.linkedin.com/in/gdfabiani/" target="_blank">LinkedIn</a> </li>-->
-
-</main>
+</p></div></footer></main>
 :ET

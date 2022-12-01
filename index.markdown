@@ -24,7 +24,7 @@ layout: default
 
 <section class="projects">
 <div class="gallery">
- <p>¡Gracias por visitar! [Thank you for stopping by!]</p> 
+ <p>Below you will find personal work, collaborations and commissions.</p> </div>
 
 <div class="responsive">
   <div class="gallery">
@@ -59,6 +59,42 @@ layout: default
       <img src="../projects/images/final.jpg" alt="Lightbox Final Shot" width="600" height="400">
     </a>
     <div class="desc">Lightbox - X-Carve 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/rabenoldvinyl.jpg">
+      <img src="images/rabenoldvinyl.jpg" width="600" height="400">
+    </a>
+    <div class="desc">Vinyl Map - <a href="https://www.christinerabenold.com/">C. Rabenold, 2018 </a> </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/Lamp2019.jpeg">
+      <img src="images/Lamp2019.jpeg" width="600" height="400">
+    </a>
+    <div class="desc">Lamp Exploration - Laser, Wood, Porcelain 2018</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/Shade2019.JPG">
+      <img src="images/Shade2019.JPG" alt="Laser Cut Lamp Shade" width="600" height="400">
+    </a>
+    <div class="desc">Lamp Shade - Laser Cut 2018</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../images/APLClock.JPG">
+      <img src="images/APLClock.JPG" alt="Laser Cut Clock" width="600" height="400">
+    </a>
+    <div class="desc">Cassette Clock - Laser Cut 2018</div>
   </div>
 </div>
 
@@ -171,7 +207,6 @@ layout: default
 </div>
 
 <div class="clearfix"></div>
-</div>
 </section>
 
 
@@ -229,6 +264,7 @@ layout: default
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
+      <p>¡Gracias por visitar! [Thank you for stopping by!]</p>
       <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfabiani@gmail.com">gdiazfabiani@gmail.com</a>
       <p>If you're interested in working together, please email me.</p>
      <!-- <p> I have experience designing and prototyping with artists and entrepreneurs, realizing their ideas through desktop digital fabrication technology. I am open for collaborations, digital fabrication prototyping, file setup and digital design consultation.</p>

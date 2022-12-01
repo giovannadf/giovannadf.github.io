@@ -306,7 +306,7 @@ footer {
   .job-item {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    column-gap: 20px;
+    column-gap: 15px;
   }
   .contact-list {
     display: flex;
