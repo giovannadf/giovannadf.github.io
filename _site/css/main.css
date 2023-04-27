@@ -6,37 +6,45 @@ https://coolors.co/323031-78BC61-F4F2F3-007EA-84828F
 #4381C1 - steel blue
 #E6AF2E - goldenrod/yellow
 #70AE6E - bud green/light green
+
+#00a6d6 - blue
+#00c1cf - light blue green
+#67c7d4 - darker blue green
+#46a7c3 - darker blue
+2f7c8d - 
+7fcad6 - hover blue
 */
 
 
 /* Global styles
 ------------------------------------*/
+
 html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+*, :before, *:after {
   box-sizing: inherit;
 }
 
 body {
   color: #F0F0F0;
-  background: #343434;
+  background: #70AE6E;
   margin: 0;
   padding: 0;
-  font-family: 'Hind', sans-serif;
+  font-family:Hind,sans-serif;
   font-size: 15px;
   line-height: 1.5;
 }
 img {
-  width: 300px;
+  max-height: 300px;
 }
 a {
-  color: #70AE6E;
+  color: #343434;
   text-decoration: none;
 }
 a:hover {
   text-decoration: none;
-  color: #4381C1;
+  color: #7fcad6;
 }
 h1 {
   font-size: 60px;
@@ -46,7 +54,7 @@ h2 {
   font-size: 35px;
 }
 h1, h2 {
-  font-family: 'Raleway', sans-serif;
+  font-family:Raleway,sans-serif;
   font-weight: 300;
   margin: 0;
 }
@@ -84,29 +92,13 @@ h3 {
 }
 
 .profile-btn:hover {
-  color: #F0F0F0;
+  color: #7fcad6;
    background: rgba(112,174,110, 70%);
 }
 
-/* Galleria
-------------------------------------
-header {
-  background: #343434;
-  color: #F7FFF7;
-}
 
-header a {
-  text-decoration: none;
-}
+/* Projects*/
 
-h1 a:hover{
-  color: #70AE6E;
-} 
-
-
-
-/* Projects
-------------------------------------*/
 .projects {
   background: #F0F0F0;
   color: #343434;
@@ -117,7 +109,7 @@ h1 a:hover{
 }
 
 .projects a:hover{
-  color: #4381C1;
+  color: #7fcad6;
 }
 
 .projects .btn {
@@ -157,17 +149,7 @@ h1 a:hover{
 }
 
 
-/* GALLERY
-------------------------------------*/
-
-/*.comingsoon{
-  list-style-type: none;
-  padding: 0;
-}
-.comingsoon a{
-  padding: 10px;
-  display: inline-block;
-  text-decoration: underline; */
+/* GALLERY*/
  
 div.gallery p {
   padding-top: 15px;
@@ -185,10 +167,9 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  max-width: 100%;
-  width: 90%;
-  height: 200px;
-  max-height: 300px;
+  height: 400px;
+  max-height: 500px;
+  max-width: 80%;
   object-fit: contain;
   margin: 5px;
 
@@ -230,39 +211,18 @@ div.desc {
   clear: both;
 }
 
-
-/* Work Experience
-------------------------------------
-.work-experience {
-  background: #A1C6D7;
-}
-
-/* Education
-------------------------------------
-.education {
-  background-image: url(../images/joanna-kosinska-unsplash.jpg);
-  background-size: cover;
-  background-position: top right;
-  padding-bottom: 100px;
-}
-.education p {
-  width: 60%;
-} 
-
-
-
-/* Contact Info
-------------------------------------*/
+/* Contact Info*/
 footer {
-  background: #343434;
+  background: #70AE6E;
   color: #F7FFF7;
+  line-height: 1;
 }
 .contact-list {
   list-style-type: none;
   padding: 0;
 }
 .contact-list a {
-  padding: 15px;
+  padding: 10px;
   display: inline-block;
 }
 
