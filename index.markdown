@@ -10,7 +10,7 @@ layout: default
           <h1> 
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
-          <h2> Digital Fabrication Design&#x2022; Fabrication &#x2022; Training</h2>
+          <h2> Digital Fabrication Design&#x2022; Prototyping &#x2022; Training</h2>
 <p> I have experience fabricating for artists and entrepreneurs, realizing ideas through desktop digital fabrication tools. I am open for collaborations, prototyping, file setup, CNC training and design consultation.</p>
  <p> For work-in-progress, check out <a href="/projects">Guías [Documentation]</a> </p> 
 </div>
