@@ -113,7 +113,7 @@ Copy the whole <section> block to add more projects. -->
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 
   <!-- Add font awesome icons -->
-<li><a href="mailto:gdiazfabiani@gmail.com" class="fa fa-envelope"></a></li>
+<li><a href="mailto:gdiazfab@gmail.com" class="fa fa-envelope"></a></li>
 <li><a href="https://github.com/giovannadf" target="_blank" class="fa fa-github"></a> </li> 
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 
