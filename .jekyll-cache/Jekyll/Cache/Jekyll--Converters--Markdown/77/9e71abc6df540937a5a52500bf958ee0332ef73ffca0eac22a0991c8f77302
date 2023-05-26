@@ -1,4 +1,4 @@
-I"b <main>
+I"3*<main>
       <!-- ***********************  ABOUT / PROFILE  *********************** -->
       <header>
         <div class="content-wrap">
@@ -6,9 +6,8 @@
           <h1> 
             <a href="/"> Giovanna Diaz Fabiani </a> 
           </h1>
-          <h2> Digital Fabrication Design&#x2022; Fabrication &#x2022; Training</h2>
-<p> I have experience fabricating for artists and entrepreneurs, realizing ideas through desktop digital fabrication tools. I am open for collaborations, prototyping, file setup, CNC training and design consultation.</p>
- <p> For work-in-progress, check out <a href="/projects">Guías [Documentation]</a> </p> 
+          <h2> Design&#x2022; Fabrication &#x2022; Training</h2>
+<p> I have experience fabricating for artists and entrepreneurs, realizing ideas through traditional and digital fabrication tools. I am available for collaborations, prototyping, CNC file setup, training and design consultation.</p> 
 </div>
   </header>
 
@@ -20,8 +19,26 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a href="../projects/images/JKlomp.jpg">
-      <img src="../projects/images/JKlomp.jpg" />
+    <a href="../projects/images/gshelf2023.png">
+      <img src="../projects/images/gshelf2023.png" />
+    </a>
+    <div class="desc">G Shelf - X-Carve Pro 2023</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/gshelfcad2023.png">
+      <img src="../projects/images/gshelfcad2023.png" />
+    </a>
+    <div class="desc">G Shelf - 3D Model 2023</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/JKlomp.jpeg">
+      <img src="../projects/images/JKlomp.jpeg" />
     </a>
     <div class="desc">CNC Service - Hardwood Cutouts X-Carve Pro 2023</div>
   </div>
@@ -29,10 +46,19 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a href="../projects/images/backlitcollab.png">
-      <img src="../projects/images/backlitcollab.png" />
+    <a href="../projects/images/WIPcutouts.JPG">
+      <img src="../projects/images/WIPcutouts.JPG" />
     </a>
-    <div class="desc">Table Base - 3D Modeling &amp; CNC Setup 2022</div>
+    <div class="desc">CNC Service - Hardwood Cutouts X-Carve Pro 2023</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/tablebase.png">
+      <img src="../projects/images/tablebase.png" />
+    </a>
+    <div class="desc">Table Base - Design Service &amp; CNC Setup 2022</div>
   </div>
 </div>
 
@@ -47,10 +73,37 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a href="../projects/images/laddershelf.png">
-      <img src="../projects/images/laddershelf.png" alt="Leaning Shelf Technical Drawing" width="600" height="400" />
+    <a href="../projects/images/cubey.jpeg">
+      <img src="../projects/images/cubey.jpeg" />
     </a>
-    <div class="desc">Leaning Shelf - X-Carve Pro 2021</div>
+    <div class="desc">Woven Cube Pillow - CNC Cut Loom 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/sk8cookies.png">
+      <img src="../projects/images/sk8cookies.png" />
+    </a>
+    <div class="desc">SK8 Cookie Cutter - 3D Printed &amp; CNC 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/sk8cookiecutter2021.png">
+      <img src="../projects/images/sk8cookiecutter2021.png" />
+    </a>
+    <div class="desc">SK8 Cookie Cutter - 3D Printed &amp; CNC 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/dados.png">
+      <img src="../projects/images/dados.png" />
+    </a>
+    <div class="desc">Dados de Silabas Collab - 3D Printed &amp; CNC 2021</div>
   </div>
 </div>
 
@@ -60,6 +113,42 @@
       <img src="../projects/images/finalprint.JPG" alt="Screenprint Final Top View" width="600" height="400" />
     </a>
     <div class="desc">Screen print - Vinyl Cutter 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/cncshelf2020.png">
+      <img src="../projects/images/cncshelf2020.png" alt="Giovanna in shop cutting CNC shelf" />
+    </a>
+    <div class="desc">Leaning Shelf - X-Carve Pro 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/cncshelfshop2020.png">
+      <img src="../projects/images/cncshelfshop2020.png" alt="Leaning Shelf in Living Room" />
+    </a>
+    <div class="desc">Leaning Shelf - X-Carve Pro 2021</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/sunmirror2021.png">
+      <img src="../projects/images/sunmirror2021.png" />
+    </a>
+    <div class="desc">Sun Mirror - CNC 3D Model X-Carve 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="../projects/images/acryliclaptopstand2020.png">
+      <img src="../projects/images/acryliclaptopstand2020.png" />
+    </a>
+    <div class="desc">Acrylic Adjustable Laptop Stand - X-Carve 2020</div>
   </div>
 </div>
 
@@ -234,14 +323,15 @@
 <footer class="footer">
    <div class="content-wrap">
       <h2>Contact</h2>
-      <p>¡Gracias por visitar! [Thank you for stopping by!]</p>
+      <p>¡Gracias por visitar! | Thank you for stopping by!</p>
       <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfab@gmail.com">gdiazfab@gmail.com</a>
       <p>If you're interested in working together, please email me.</p>
+      <p> For work-in-progress, check out <a href="/projects">Guías [Documentation]</a></p>
 
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 
   <!-- Add font awesome icons -->
-<li><a href="mailto:gdiazfabiani@gmail.com" class="fa fa-envelope"></a></li>
+<li><a href="mailto:gdiazfab@gmail.com" class="fa fa-envelope"></a></li>
 <li><a href="https://github.com/giovannadf" target="_blank" class="fa fa-github"></a> </li> 
 <li><a href="https://instagram.com/gdiazfab" target="_blank" class="fa fa-instagram"></a></li>
 <li><a href="https://www.linkedin.com/in/gdfabiani/" target="_blank" class="fa fa-linkedin"></a></li> 

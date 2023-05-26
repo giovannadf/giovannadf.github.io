@@ -1,4 +1,4 @@
-I"ó<main>
+I"ú<main>
 <!-- ***********************  ABOUT / PROFILE  *********************** -->
 	<header>
 		<div class="content-wrap">
@@ -104,6 +104,7 @@ Copy the whole <section> block to add more projects. -->
       <p>Â¡Gracias por visitar! | Thank you for stopping by!</p>
       <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfab@gmail.com">gdiazfab@gmail.com</a>
       <p>If you're interested in working together, please email me.</p>
+      
 
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 
