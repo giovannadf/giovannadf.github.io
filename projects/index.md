@@ -9,7 +9,7 @@ layout: default
   <h1> 
     <a href="/index"> Giovanna Diaz Fabiani </a> 
   </h1>
-     <h2> Digital Fabrication Design &#x2022; Prototyping &#x2022; Training</h2> 
+     <h2> Design&#x2022; Fabrication &#x2022; Training</h2> 
  <!-- <h2> Guías [Documentation]</h2> -->
 <!--  <ul class="contact-list"> --> 
   <p>Back to<a href="/" > Galería [Gallery] </a> </p>
@@ -22,7 +22,7 @@ layout: default
 <section class="projects">
 <div class="content-wrap divider">
   <h2>Guías [Documentation]</h2>
-  <p>I enjoy exploring repetition, abstraction and themes from social theory. I use X-Carve/X-Carve Pro, Ender 3 Pro 3D printer, Cricut vinyl cutter and various open-source software. This is where I will attempt to document and share my work in progress. </p>
+  <p>I like to play with repetition, abstraction and negative space via contemporary materials. I use X-Carve/X-Carve Pro, Ender 3 Pro 3D printer, Cricut vinyl cutter, laser cutters and various open-source software. This is where I will attempt to document and share my work in progress. </p>
   <h3>Other Sites</h3>
     <a class="btn" href="https://www.thingiverse.com/gdiazfab/designs" target="_blank">Thingiverse</a>
     <a class="btn" href="https://wikifactory.com/@gdiazfab" target="_blank">Wikifactory</a>
@@ -108,6 +108,7 @@ Copy the whole <section> block to add more projects. -->
       <p>¡Gracias por visitar! | Thank you for stopping by!</p>
       <p> Para contratar trabajo envie correo: <a href="mailto:gdiazfab@gmail.com">gdiazfab@gmail.com</a>
       <p>If you're interested in working together, please email me.</p>
+
 
 <!-- Social media and contact links. Add or remove any networks. -->
   <ul class="contact-list"> 
